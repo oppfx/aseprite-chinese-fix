@@ -1,0 +1,18 @@
+{
+  "name": "aseprite-theme-cn",
+  "displayName": "Aseprite 中文清晰字体主题",
+  "description": "基于官方默认主题：英文保留像素字体，中文使用清晰的跨平台字体回退，并修正悬停提示框的中文尺寸计算。",
+  "version": "1.2.0",
+  "author": { "name": "Aseprite-Hanhua-Kit", "email": "", "url": "" },
+  "publisher": "community",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "cn-clear", "path": ".", "variant": "Light" },
+      { "id": "cn-clear-dark", "path": "./dark", "variant": "Dark" }
+    ]
+  }
+}
