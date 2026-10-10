@@ -1,8 +1,8 @@
 {
-  "name": "aseprite-theme-cn",
-  "displayName": "Aseprite 中文清晰字体主题",
-  "description": "基于官方默认主题：英文保留像素字体，中文使用清晰的跨平台字体回退，并修正悬停提示框的中文尺寸计算。",
-  "version": "1.2.0",
+  "name": "aseprite-chinese-fix",
+  "displayName": "Aseprite 中文显示修复",
+  "description": "修复 Aseprite 中文字体显示和悬停提示框尺寸不匹配的问题，包含浅色与深色主题。",
+  "version": "1.2.1",
   "author": { "name": "Aseprite-Hanhua-Kit", "email": "", "url": "" },
   "publisher": "community",
   "license": "CC-BY-4.0",
