@@ -1,4 +1,4 @@
-# aseprite-chinese-fix
+# aseprite-chinese-fix 中文插件修复版
 
 用于修复 Aseprite 中文字体显示问题的主题扩展，包含浅色和深色两种配色。
 
